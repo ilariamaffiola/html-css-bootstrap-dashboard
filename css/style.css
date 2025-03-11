@@ -1,0 +1,20 @@
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    width: 70px;
+}
+nav.navbar a.nav-link{
+    color: rgb(88, 86, 86);
+    font-weight: bold;
+}
+nav.navbar a.nav-link.active{
+    color: white;
+    font-weight: 700;
+}
+nav.navbar button.navbar-toggler , nav.navbar button.navbar-toggler:focus{
+    box-shadow: none;
+    border-color: rgba(255, 255, 255, 0.26);
+    padding: 10px 18px;
+}
