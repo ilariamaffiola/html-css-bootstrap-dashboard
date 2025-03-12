@@ -15,6 +15,6 @@ nav.navbar a.nav-link.active{
 }
 nav.navbar button.navbar-toggler , nav.navbar button.navbar-toggler:focus{
     box-shadow: none;
-    border-color: rgba(255, 255, 255, 0.26);
+    border-color: rgba(255, 255, 255, 0.05);
     padding: 10px 18px;
 }
